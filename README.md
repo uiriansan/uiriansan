@@ -1,23 +1,25 @@
 ### I code for fun.
-<a href="">
-	<img src="https://github.com/uiriansan/uiriansan/blob/master/facebook.png" width="18px" />
-   </a>
-   <img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/>
-   <a href="">
-	<img src="https://github.com/uiriansan/uiriansan/blob/master/linkedin.png" width="18px" />
-   </a>
+<p float="left">
+  <a href="">
+	  <img src="https://github.com/uiriansan/uiriansan/blob/master/facebook.png" width="18px" />
+  </a>
   <img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/>
-   <a href="">
-	<img src="https://github.com/uiriansan/uiriansan/blob/master/spotify.png" width="18px" />
-   </a>
-   <img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/>
-   <a href="">
-	<img src="https://github.com/uiriansan/uiriansan/blob/master/anilist.png" width="18px" />
-   </a>
-   <img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/>
-   <a href="">
-	<img src="https://github.com/uiriansan/uiriansan/blob/master/steam.png" width="18px" />
-   </a>
+  <a href="">
+	  <img src="https://github.com/uiriansan/uiriansan/blob/master/linkedin.png" width="18px" />
+  </a>
+  <img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/>
+  <a href="">
+	  <img src="https://github.com/uiriansan/uiriansan/blob/master/spotify.png" width="18px" />
+  </a>
+  <img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/>
+  <a href="">
+	  <img src="https://github.com/uiriansan/uiriansan/blob/master/anilist.png" width="18px" />
+  </a>
+  <img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/>
+  <a href="">
+	  <img src="https://github.com/uiriansan/uiriansan/blob/master/steam.png" width="18px" />
+  </a>
+</p>
    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=uiriansan&layout=compact&theme=transparent&langs_count=10&hide_border=true&custom_title=Stats&title_color=ca7690&text_color=97ce95&card_width=350" />
