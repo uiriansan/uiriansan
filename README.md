@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22" />
+</div>
+
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=williansantosnt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Now playing on Spotify" />
 </p>
@@ -15,3 +19,7 @@
 <p align="center">
   Thanks to <a href="https://github.com/kittinan/">kittinan</a> and <a href="https://github.com/anuraghazra">anuraghazra</a>
 </p>
+
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer"/>
+</div>
