@@ -2,14 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22" />
 </div>
 
-
-<div align="center"><a href="https://uiriansan.github.io">uiriansan.github.io</a></div>
 <div align="center"><h3>I code for fun</h3><div>
 <p>...but unfortunately I still need money.<br/>
 If your company is willing to hire an inexperienced and<br/>
 socially awkward programmer, feel free to <a target="_blank" href="mailto:uiriansan@gmail.com?subject=Job%20opportunity%20at%20%3Ccompany%3E&body=My%20Github%20profile%3A%20%3Cprofile%3E">e-mail me.</a><br/></p>
-<p float="left"><a href="https://facebook.com/uirian" target="_blank" title="Facebook"><img src="https://github.com/uiriansan/uiriansan/blob/master/facebook.png" width="18px" /></a><img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/><a href="https://open.spotify.com/user/williansantosnt?si=506f172c669e42b0" target="_blank" title="Spotify"><img src="https://github.com/uiriansan/uiriansan/blob/master/spotify.png" width="18px" /></a><img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/><a href="https://anilist.co/user/uiriansan" target="_blank" title="AniList"><img src="https://github.com/uiriansan/uiriansan/blob/master/anilist.png" width="18px" /></a><img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/><a href="https://steamcommunity.com/id/uiriansan/" target="_blank" title="Steam"><img src="https://github.com/uiriansan/uiriansan/blob/master/steam.png" width="18px" /></a></a><img src="https://github.com/uiriansan/uiriansan/blob/master/sep.png"/><a href="https://www.linkedin.com/in/uiriansan/" target="_blank" title="Linkedin"><img src="https://github.com/uiriansan/uiriansan/blob/master/linkedin.png" width="18px" /></a></p>
-
+<div align="center"><a href="https://uiriansan.github.io">uiriansan.github.io</a></div><br/>
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=williansantosnt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Now playing on Spotify" />
 </p>
