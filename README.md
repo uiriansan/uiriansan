@@ -12,10 +12,10 @@ socially awkward programmer, feel free to <a target="_blank" href="mailto:uirian
 </p>
    
 <a href="https://uiriansan.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=uiriansan&layout=compact&theme=transparent&langs_count=10&hide_border=true&custom_title=Stats&title_color=ca7690&text_color=cccccc&card_width=350" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=uiriansan&layout=compact&theme=transparent&langs_count=10&hide_border=true&custom_title=Stats&title_color=3979cb&text_color=cccccc&card_width=350" />
 </a>
 <a href="https://uiriansan.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiriansan&layout=compact&theme=transparent&langs_count=10&hide_border=true&title_color=ca7690&text_color=cccccc&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiriansan&layout=compact&theme=transparent&langs_count=10&hide_border=true&title_color=3979cb&text_color=cccccc&card_width=320" />
 </a>
 
 <p align="center">
