@@ -15,7 +15,7 @@ socially awkward programmer, feel free to <a target="_blank" href="mailto:uirian
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=uiriansan&layout=compact&theme=transparent&langs_count=10&hide_border=true&show_icons=true&custom_title=Stats&title_color=3979cb&text_color=cccccc&card_width=350" />
 </a>
 <a href="https://uiriansan.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiriansan&layout=compact&theme=transparent&langs_count=10&size_weight=0.5&count_weight=0.5&hide=nix,makefile,glsl,html,qml&exclude_repo=hyprland-shell&hide_border=true&title_color=3979cb&text_color=cccccc&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiriansan&layout=compact&theme=transparent&langs_count=10&size_weight=0.7&count_weight=0.3&hide=nix,makefile,glsl,html,qml&exclude_repo=hyprland-shell&hide_border=true&title_color=3979cb&text_color=cccccc&card_width=320" />
 </a>
 
 <p align="center">
