@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://api.anicards.alpha49.com/card.svg?userId=5921896&cardType=currentlyWatchingReading&variation=default&colorPreset=custom" alt="AniList stats" />
+    <img src="https://api.anicards.alpha49.com/card.svg?userId=5921896&cardType=currentlyWatchingReading&variation=default&colorPreset=anilistDarkGradient" alt="AniList stats" />
 </p>
 
 <div style="text-align: center;">
